@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>AllowedTypes</key>
+		<array>
+			<string>public.swift-source</string>
+			<string>public.markdown</string>
+			<string>public.json</string>
+		</array>
+		<key>Kind</key>
+		<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
+		<key>Options</key>
+		<array>
+			<dict>
+				<key>Identifier</key>
+				<string>titleText</string>
+				<key>Name</key>
+				<string>MVVM for SwiftUI</string>
+				<key>Type</key>
+				<string>static</string>
+
+			</dict>
+
+			<!-- entry for a text field for the class name-->
+			<dict>
+				<key>Identifier</key>
+				<string>className</string>
+				<key>Name</key>
+				<string>Class Name/ Story Prefix (e.g. Posts): </string>
+				<key>Type</key>
+				<string>text</string>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>line</string>
+				<key>Name</key>
+				<string>_________________________</string>
+				<key>Type</key>
+				<string>static</string>
+
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>Line 1</string>
+				<key>Name</key>
+				<string>This template generates the set of files for an</string>
+				<key>Type</key>
+				<string>static</string>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>Line 3</string>
+				<key>Name</key>
+				<string>MVVM pattern story in SwiftUI.</string>
+				<key>Type</key>
+				<string>static</string>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>Line 3</string>
+				<key>Name</key>
+				<string>Enter the story's name (e.g. Posts) as a class name</string>
+				<key>Type</key>
+				<string>static</string>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>Line 4</string>
+				<key>Name</key>
+				<string>			in this dialog and the files' prefix in the next</string>
+				<key>Type</key>
+				<string>static</string>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>Line 5</string>
+				<key>Name</key>
+				<string>dialog ("Save As"). Further infos are in the created .md file</string>
+				<key>Type</key>
+				<string>static</string>
+			</dict>
+		</array>
+	</dict>
+
+</plist>

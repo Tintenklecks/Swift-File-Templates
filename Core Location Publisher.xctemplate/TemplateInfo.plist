@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowedTypes</key>
+	<array>
+		<string>public.swift-source</string>
+		<string>public.markdown</string>
+	</array>
+	<key>Kind</key>
+	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Default</key>
+			<string>User Publisher</string>
+			<key>Identifier</key>
+			<string>1</string>
+			<key>Name</key>
+			<string> </string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string> </string>
+			<key>Identifier</key>
+			<string>2</string>
+			<key>Name</key>
+			<string> </string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string> </string>
+			<key>Identifier</key>
+			<string>3</string>
+			<key>Name</key>
+			<string>This template creates a View and a ViewModel </string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string> </string>
+			<key>Identifier</key>
+			<string>4</string>
+			<key>Name</key>
+			<string>with a User´s publisher (example: Core Location). </string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string> </string>
+			<key>Identifier</key>
+			<string>8</string>
+			<key>Name</key>
+			<string> </string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string>Location</string>
+			<key>Description</key>
+			<string>The prefix for filenames. e.g. XXXView, XXXViewModel ...</string>
+			<key>Identifier</key>
+			<string>basename</string>
+			<key>Name</key>
+			<string>Please enter a prefix for classes, structs etc:</string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Required</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+	</array>
+</dict>
+</plist>

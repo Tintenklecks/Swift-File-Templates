@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowedTypes</key>
+	<array>
+		<string>public.swift-source</string>
+		<string>public.markdown</string>
+	</array>
+	<key>Kind</key>
+	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Default</key>
+			<string>WIKIPEDIA</string>
+			<key>Identifier</key>
+			<string>1</string>
+			<key>Name</key>
+			<string> </string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string> </string>
+			<key>Identifier</key>
+			<string>2</string>
+			<key>Name</key>
+			<string> </string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string> </string>
+			<key>Identifier</key>
+			<string>3</string>
+			<key>Name</key>
+			<string>This template creates MVVM files plus one service</string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string> </string>
+			<key>Identifier</key>
+			<string>4</string>
+			<key>Name</key>
+			<string>REST class for the (sample) REST call. </string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string> </string>
+			<key>Identifier</key>
+			<string>5</string>
+			<key>Name</key>
+			<string>The View demonstrates the geo based WIKI call in action</string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string> </string>
+			<key>Identifier</key>
+			<string>6</string>
+			<key>Name</key>
+			<string>What changes have to be done for your REST call,</string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string> </string>
+			<key>Identifier</key>
+			<string>7</string>
+			<key>Name</key>
+			<string>are documented in the markdown file</string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string> </string>
+			<key>Identifier</key>
+			<string>8</string>
+			<key>Name</key>
+			<string> </string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+		<dict>
+			<key>Default</key>
+			<string>WIKI</string>
+			<key>Description</key>
+			<string>The prefix for filenames. e.g. XXXView, XXXViewModel ...</string>
+			<key>Identifier</key>
+			<string>basename</string>
+			<key>Name</key>
+			<string>Please enter a prefix for classes, structs etc:</string>
+			<key>NotPersisted</key>
+			<string>YES</string>
+			<key>Required</key>
+			<string>YES</string>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+	</array>
+</dict>
+</plist>
